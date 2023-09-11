@@ -1,0 +1,14 @@
+C:\Users\Sol\Documents\Documentos\Maestria\Clases\TF\Proyecto\KNNTexto\KNNText\bin\Debug\net6.0\KNNText.exe
+C:\Users\Sol\Documents\Documentos\Maestria\Clases\TF\Proyecto\KNNTexto\KNNText\bin\Debug\net6.0\KNNText.deps.json
+C:\Users\Sol\Documents\Documentos\Maestria\Clases\TF\Proyecto\KNNTexto\KNNText\bin\Debug\net6.0\KNNText.runtimeconfig.json
+C:\Users\Sol\Documents\Documentos\Maestria\Clases\TF\Proyecto\KNNTexto\KNNText\bin\Debug\net6.0\KNNText.dll
+C:\Users\Sol\Documents\Documentos\Maestria\Clases\TF\Proyecto\KNNTexto\KNNText\bin\Debug\net6.0\KNNText.pdb
+C:\Users\Sol\Documents\Documentos\Maestria\Clases\TF\Proyecto\KNNTexto\KNNText\obj\Debug\net6.0\KNNText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sol\Documents\Documentos\Maestria\Clases\TF\Proyecto\KNNTexto\KNNText\obj\Debug\net6.0\KNNText.AssemblyInfoInputs.cache
+C:\Users\Sol\Documents\Documentos\Maestria\Clases\TF\Proyecto\KNNTexto\KNNText\obj\Debug\net6.0\KNNText.AssemblyInfo.cs
+C:\Users\Sol\Documents\Documentos\Maestria\Clases\TF\Proyecto\KNNTexto\KNNText\obj\Debug\net6.0\KNNText.csproj.CoreCompileInputs.cache
+C:\Users\Sol\Documents\Documentos\Maestria\Clases\TF\Proyecto\KNNTexto\KNNText\obj\Debug\net6.0\KNNText.dll
+C:\Users\Sol\Documents\Documentos\Maestria\Clases\TF\Proyecto\KNNTexto\KNNText\obj\Debug\net6.0\refint\KNNText.dll
+C:\Users\Sol\Documents\Documentos\Maestria\Clases\TF\Proyecto\KNNTexto\KNNText\obj\Debug\net6.0\KNNText.pdb
+C:\Users\Sol\Documents\Documentos\Maestria\Clases\TF\Proyecto\KNNTexto\KNNText\obj\Debug\net6.0\KNNText.genruntimeconfig.cache
+C:\Users\Sol\Documents\Documentos\Maestria\Clases\TF\Proyecto\KNNTexto\KNNText\obj\Debug\net6.0\ref\KNNText.dll
